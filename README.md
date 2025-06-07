@@ -165,7 +165,7 @@ The dashboard includes the following insights:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/computer-hardware-sales-dashboard.git
+   https://github.com/sayan7076/Tableau-Project-for-Sales-Ananlysis.git
 2. Open Tableau and connect to:
 
 	* MySQL Workbench (if using a live database)

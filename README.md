@@ -146,7 +146,7 @@ _Add images of your Tableau dashboard and important sheets here._
 ## 🖼️ Screenshots
 
 > You can add screenshots of your Tableau dashboard here for better presentation.
-> ![Dashboard Screenshot](images/dashboard.png)
+> ![Dashboard Screenshot](Tableau Dashboard Image.png)
 
 
 

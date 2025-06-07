@@ -17,6 +17,15 @@ The sales team of a computer hardware company is unable to make strategic decisi
 ---
 
 
+## 🖼️ Screenshots
+
+> You can add screenshots of your Tableau dashboard here for better presentation.
+> ![Dashboard Screenshot](Tableau_dashboard_image.png)
+
+
+---
+
+
 ## 🧩 Database Overview
 
 The project uses a relational database schema, consisting of 5 tables. Below is the schema used for the analysis:
@@ -108,10 +117,6 @@ The dashboard includes the following insights:
 ---
 
 
-## 🖼️ Screenshots
-
-
-
 ## 📁 Project Structure
 
 📦 computer-hardware-sales-dashboard
@@ -139,14 +144,6 @@ The dashboard includes the following insights:
 - **Data Modeling** – Star schema  
 - **Data Cleaning & Normalization** – using Tableau calculated fields  
 - **Visualization Best Practices**
-
----
-
-
-## 🖼️ Screenshots
-
-> You can add screenshots of your Tableau dashboard here for better presentation.
-> ![Dashboard Screenshot](Tableau_dashboard_image.png)
 
 
 

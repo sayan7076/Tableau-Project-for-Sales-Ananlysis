@@ -121,16 +121,27 @@ The dashboard includes the following insights:
 
 📦 computer-hardware-sales-dashboard
 │
+
 ├── data/
-│ └── sample_data.sql (or .csv files, optional)
+
+│└── sample_data.sql (or .csv files, optional)
+
 │
+
 ├── dashboard/
+
 │ └── dashboard.twbx (Tableau packaged workbook)
+
 │
+
 ├── images/
+
 │ └── dashboard_screenshot.png
+
 │
+
 └── README.md
+
 
 
 ---
